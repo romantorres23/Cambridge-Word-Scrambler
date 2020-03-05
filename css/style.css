@@ -1,0 +1,35 @@
+body{
+    font: 24px 'Oxanium', cursive;
+    background-color: rgb(8, 44, 73);
+    color: #fff;
+}
+
+.profileimage{
+    float: left;
+    width: 40%;
+    margin: 10px;
+    padding: 0;
+    border: 3px solid rgb(8, 44, 73);
+}
+
+.profileimage:hover{
+    border: 3px solid #000;
+}
+
+
+.container {
+    float: left;
+    margin: 10px;
+}
+
+body > article > h1 {
+    font-size: 32px;
+    margin: 10px 0 0;
+}
+body > article > h2{
+    font-size: 28px;
+    margin: 0;
+}
+body > article > p{
+    margin: 10px 0; 
+}
